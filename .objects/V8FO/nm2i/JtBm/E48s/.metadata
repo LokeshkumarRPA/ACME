@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Work Item Details WIID…",
+  "Type": "Element",
+  "Id": "E48sxeOmnkCtqtuyxpOhag",
+  "Reference": "E2gmMpKx00KsQmmrK89cEQ/E48sxeOmnkCtqtuyxpOhag",
+  "ParentRef": "E2gmMpKx00KsQmmrK89cEQ/JtBm-aDcQUCnWOoMEhA1PA",
+  "Created": "2025-04-26T16:43:26.2520468Z",
+  "Updated": "2025-04-26T16:43:26.2520468Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.2.1.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.3.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

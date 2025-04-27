@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="RwuCIhxEDUm6T2RRD1rQGQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="acme-test.uipath.com/work-items/101765336" DesignTimeRectangle="838, 629, 606, 290" DesignTimeScaleFactor="1.5" FullSelectorArgument="&lt;webctrl class='col-lg-5' idx='2' tag='DIV' /&gt;" FuzzySelectorArgument="&lt;webctrl class='col-lg-5' type='' tag='DIV' aaname='                                                                                                ' /&gt;" Guid="ab1e0b79-48e9-431d-9931-658b43480f9c" ImageBase64="" ScopeSelectorArgument="&lt;html app='chrome.exe' title='ACME System 1 - Work Items' /&gt;" SearchSteps="Selector, FuzzySelector" Version="V5" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="a4fc6e949f4c36a2eccd83923b0834a1.png" xmlns="">0n-Z0oS4dUUqs_HRkzTXIHw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">GetText</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

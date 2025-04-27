@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="uQpUeZnu10yG-8KC2BJ_4w" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="acme-test.uipath.com/home" CVScreenId="2a288f0a-b2f3-46fc-9e83-ea484f7802e0" CvTextArea="125, 447, 58, 19" CvTextArgument="Home" CvType="Text" DesignTimeRectangle="127, 446, 56, 23" DesignTimeScaleFactor="1.5" ElementType="Text" FullSelectorArgument="&lt;webctrl aaname='Home' href='https://acme-test.uipath.com/home' tag='A' /&gt;" FuzzySelectorArgument="&lt;webctrl aaname='Home' href='https://acme-test.uipath.com/home' tag='A' type='' class='' check:innerText='Home' /&gt;" Guid="681e8fe3-7acc-468d-8b55-653b2ab91043" ImageBase64="iVBORw0KGgoAAAANSUhEUgAAADwAAAAbCAYAAAAgVez8AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAAFiUAABYlAUlSJPAAAAJ/SURBVFhH7ZZBaxpREMf7nTx52pM3P8DecsoX8CIUESVURBISyKWhRCkeQluKBELCIouIsWHTgCJoQmtKEilFmkTCsud/5/neum+3a2zjQstmD39kZ+fNzG/eW9+8sCwLz0kRcNgVAYddEXDY5QY+bSP28gixyrnLyavhgT71Uw9Gvu//Z0XAEbCPIuCZHjA8/YxUSUOcxSHF8w2ktUuMTdlvhPI6vV8/w/D2EtWKDiXD/ZViE+XBHfmYGH0ysFrg9li2jtXaF08cJhPjXgfpzUU5uQIEvoP+VhPFaVjZaSNbbULNiYI3zjCYFSCACzrUPP3mdKSqbaS367zoTBNbHylHRoPK4uw2kMzyOMnatZTTxEDUMvOttmZNim92pJxc/sB/KBl4QmsVZt8wYNxKMc2fOKzwRiT2vgq7AGb+2x2MZkWZMD7UuT2jo/zNFHbS9w5WmL1EjbNtFwaSzFY8QUvOSc03WMPonfcU+gPTDiUL9blKiF1zgk2wv8NsGl51pSJt3feRYkc204Y+hbOByb/n8bVr2O277bTmdYmtoRjCZuyxRs7JaZ4jzXIWDHQle0BH+gpb02PkFOOW3RDatSv2bAPT843HV9Tg3RlnjZ3DaZr6hh1lr1ric2rg/Q8nTkDA1E22bi6wBb3C3nuBffz/GniR7Jxc/3iHgwBuYv9e9ntcAQE/9RteBtgUp+YIqeOJx5ckcipFAy3JHhDwU/+llwEm9U6QYDnzbRyO5UbTFflbTq7AgBfew66rIyBgOlndGq/F7x6OrZGv67oKFJiJJq1jmo6kSUtZe2TSWhqYyZm07GktlqOp7F0fwwfZj8sN/AwUAYddEXC4ZeEXO6v4DErR6ucAAAAASUVORK5CYII=" ScopeSelectorArgument="&lt;html app='chrome.exe' title='ACME System 1 - Dashboard' /&gt;" SearchSteps="FuzzySelector, CV" Version="V5" Visibility="Interactive">
+      <TargetAnchorable.PointOffset>
+        <PointOffset />
+      </TargetAnchorable.PointOffset>
+      <imageRef attrName="InformativeScreenshot" originalValue="cbbce9996484b14c491da235986cc27a.png" xmlns="">0e4o-ri71Q0uzxWDF6wjseg</imageRef>
+    </TargetAnchorable>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>
